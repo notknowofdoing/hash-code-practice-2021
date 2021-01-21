@@ -1,0 +1,30 @@
+{
+  "pizza": {
+    "count": 5,
+    "0": {
+      "ingredientCount": 3,
+      "ingredients": ["onion", "pepper", "olive"]
+    },
+    "1": {
+      "ingredientCount": 3,
+      "ingredients": ["mushroom", "tomato", "basil"]
+    },
+    "2": {
+      "ingredientCount": 3,
+      "ingredients": ["chicken", "mushroom", "pepper"]
+    },
+    "3": {
+      "ingredientCount": 3,
+      "ingredients": ["tomato", "mushroom", "basil"]
+    },
+    "4": {
+      "ingredientCount": 2,
+      "ingredients": ["chicken", "basil"]
+    }
+  },
+  "teams": {
+    "twos": 1,
+    "threes": 2,
+    "fours": 1
+  }
+}
