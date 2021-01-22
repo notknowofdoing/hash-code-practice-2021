@@ -1,0 +1,10 @@
+{
+  "name": "even-more-pizza",
+  "version": "0.1.0",
+  "description": "solution for Google's hash code 2021 practice problem: \"Even more pizza\"",
+  "main": "index.js",
+  "repository": "https://www.github.com/notknowofdoing/hash-code-practice-2021/",
+  "author": "!know(doing)",
+  "license": "UNLICENSED",
+  "private": true
+}
